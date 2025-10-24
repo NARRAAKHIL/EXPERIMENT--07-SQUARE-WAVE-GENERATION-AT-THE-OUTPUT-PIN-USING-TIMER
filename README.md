@@ -221,7 +221,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## PULSE - 900
 ![WhatsApp Image 2025-10-24 at 09 38 08_9be021e0](https://github.com/user-attachments/assets/5e04f281-97bd-41d2-9e4f-ac5025f5d066)
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+![WhatsApp Image 2025-10-24 at 10 17 41_c1db9301](https://github.com/user-attachments/assets/b0cb8e59-24f4-4075-9341-1f77a968ad52) 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
@@ -241,6 +241,7 @@ TON = 47ms
 TOFF= 9.5ms 
 
 TOTAL TIME = 47ms+9.5ms=52.5ms 
+
 FREQUENCY = 1/52.5ms = 0.019mhz = 19hz
 
 
@@ -257,7 +258,3 @@ FREQUENCY = 1/70ms = 0.014mhz = 14hz
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
-
-
-
-
